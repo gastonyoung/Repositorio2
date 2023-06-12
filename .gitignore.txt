@@ -1,0 +1,3 @@
+#ignorar mis archivos
+
+passwords.txt
